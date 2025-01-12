@@ -1,4 +1,4 @@
-# firstrepo
+ # firstrepo
  This is my first repository.
  <br>
-Author-karan kshirsagar
+Author-karan kshirsagar(SKNCOE)
